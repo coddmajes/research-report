@@ -2,9 +2,6 @@
 
 [中文](Review_and_Prospects_of_Data-driven_Sparse_Coding.pdf)
 
-> **!!!** This work was accepted by Computer Engineering and Applications(ISSN: 1002-8331) on April 30th. 2021, but I didn't pay the 
-> publication fee, so it was rejected by the journal on March 11th, 2022.
-
 ## Abstract
 Sparse coding is an efficient method to represent information, it has achieved widespread applications in image signal processing, 
 computer vision and pattern recognition. However, many large-scale practical tasks are still limited by the speed of sparse solvers. 
