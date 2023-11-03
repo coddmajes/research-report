@@ -1,6 +1,6 @@
 # Review and Prospects of Data-driven Sparse Coding
 
-[中文](Review_and_Prospects_of_Data-driven_Sparse_Coding.pdf)
+[中文](数据驱动的稀疏编码算法综述与展望.pdf)
 
 ## Abstract
 Sparse coding is an efficient method to represent information, it has achieved widespread applications in image signal processing, 
